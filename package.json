@@ -19,7 +19,7 @@
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-2": "^6.24.1",
     "css-loader": "^0.28.7",
-    "datatables.net": "^1.10.20",
+    "datatables.net": "^1.10.22",
     "file-loader": "^1.1.5",
     "html-webpack-plugin": "^2.30.1",
     "jquery": "^3.5.1",
